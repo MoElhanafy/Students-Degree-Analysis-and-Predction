@@ -7,6 +7,7 @@ The app allows users to:
 Analyze: Explore how students spend their time and how lifestyle factors impact their GPA, stress levels, and study habits.
 Visualize: Interactive visualizations (using Seaborn, Matplotlib, and Plotly) to display insights.
 Predict: Understand trends, relationships, and general behavior among students.
+
 🚀 Features
 Analyzing Mode: Provides answers to key analytical questions such as:
 
